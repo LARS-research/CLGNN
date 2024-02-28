@@ -19,4 +19,4 @@ To reproduce the results on the OGB Leaderboards, execute the script:
 
 
 ## License
-RelEns is released under the MIT license. Further details can be found [here](LICENSE).
+CLGNN is released under the MIT license. Further details can be found [here](LICENSE).
