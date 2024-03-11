@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 ### Run the Code
 To reproduce the results on the OGB Leaderboards, execute the script:
-    ```shell
+    ```
     sh scripts/run_leaderboard_OGBN-MAG.sh
     ```
 
